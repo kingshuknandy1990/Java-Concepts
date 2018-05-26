@@ -29,7 +29,10 @@ public static void main(String[] args) throws InterruptedException {
 		
 		System.err.println(t1.getName()+"==="+t1.getPriority());
 		System.err.println(t2.getName()+"==="+t2.getPriority());;
+<<<<<<< HEAD
 		
+=======
+>>>>>>> 955242389a509726b7aac47cc2789e9c908b605d
 }
 }
 class ThreadDemo1 implements Runnable{
