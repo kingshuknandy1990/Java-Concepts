@@ -1,0 +1,6 @@
+The name While working with native or Hybrid applications, always the click function [Which works on Web element] doesn't work. As a workaround, Appium has introduced tap method which acts on pixel on the screen for any Mobile Element
+and is more consistent compared to click.
+The name While working with native or Hybrid applications, always the click function [Which works on Web element] doesn't work. As a workaround, Appium has introduced tap method which acts on pixel on the screen for any Mobile Element
+and is more consistent compared to click.
+The name While working with native or Hybrid applications, always the click function [Which works on Web element] doesn't work. As a workaround, Appium has introduced tap method which acts on pixel on the screen for any Mobile Element
+and is more consistent compared to click.@

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Feature"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/java-client-4.1.2.jar" sourcepath="C:/Users/KINGSH~1.NAN/AppData/Local/Temp/.org.sf.feeling.decompiler1519551460796/source/java-client-4.1.2-sources-1519553409484.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/selenium-server-standalone-3.9.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/cobertura-2.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/cucumber-core-1.2.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/cucumber-java-1.2.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/cucumber-junit-1.2.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/cucumber-jvm-deps-1.0.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/cucumber-reporting-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/cucumber-reporting-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/gherkin-2.12.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/junit-4.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingshuk.nandy/workspace_JavaConcepts/BasicAppiumProject/Lib/CucumberDependecies/mockito-all-2.0.2-beta-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
